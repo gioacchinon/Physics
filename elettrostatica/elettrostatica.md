@@ -137,8 +137,15 @@ $$V = {U \over q_0}$$
 
 Si definisce come **differenza di potenziale elettrico** di un corpo elettrizzato, *il lavoro che può eseguire l'unità di elettricità passando dalle condizioni in cui si trova nel corpo al potenziale zero.*
 
-$$\Delta V = - {W_{A,B} \over q_0}$$
+$$\Delta V = - {W_{A,B} \over q_0} = -\vec{E} \cdot \Delta \vec{s}$$
 
-Una carica negativa accelera verso un $V$ maggiore, mentre una positiva verso un $V$ minore. Questo è dato dal segno della forza.
+Una carica negativa accelera verso un $V$ maggiore, mentre una positiva verso un $V$ minore. Questo è dato matematicamente dal segno della forza. 
+Per convenzione si considera il moto di una carica positiva ma è importante notare che sono gli elettroni a muoversi.
 
 Il lavoro necessario per trasportare un punto elettrizzato lunga una superficie equipotenziale è nullo.
+
+**Elettronvolt:** unità pratica di potenziale elettrico equivalente al lavoro compiuto da un elettrone per attraversare una $\Delta V$ di 1 Volt
+
+#### Messa a Terra ⏚
+
+>L'equilibrio di potenziale si ha quando la zona considerata presenta tutti i punti con potenziale eguale. Si può ottenere collegando il conduttore a un potenziale nullo (messa a terra ⏚)
