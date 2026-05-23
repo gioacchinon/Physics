@@ -97,9 +97,9 @@ $$
 
 ##### considerando
 - $k = \frac{1}{4\pi\epsilon_0}$
-- $\lambda = \frac{Q}{l}$densità lineare di carica
-- $\sigma = \frac{Q}{S}$densità superficiale di carica
-- $\rho = \frac{Q}{V}$densità volumica di carica
+- $\lambda = \frac{Q}{l}$ densità lineare di carica
+- $\sigma = \frac{Q}{S}$ densità superficiale di carica
+- $\rho = \frac{Q}{V}$ densità volumica di carica
 
 
 | **Distribuzione di Carica** | **Simmetria** | **Andamento del Campo $E$** | **Note Caratteristiche** |
