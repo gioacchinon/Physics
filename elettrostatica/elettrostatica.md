@@ -102,16 +102,16 @@ $$
 - $\rho = \frac{Q}{V}$ densità volumica di carica
 
 
-| **Distribuzione di Carica** | **Simmetria** | **Andamento del Campo $E$** | **Note Caratteristiche** |
-|-----------------------------|---------------|-------------------------------|---------------------------|
-| **Punto** | Sferica | $$E = k\frac{Q}{r^2}$$| Radiale; identico a quello di una massa puntiforme in gravità |
-| **Piano infinito uniformemente carico** | Planare | $$E = \frac{\sigma}{2\epsilon_0}$$ | Campo **costante** e indipendente dalla distanza |
-| **Condensatore piano** | Planare | $$E = \frac{\sigma}{\epsilon_0}$$ tra le armature | Campo uniforme nella regione centrale |
-| **Sfera dielettrica uniformemente carica** | Sferica | Interno: $$E = k\frac{Q}{R^3}r$$   Esterno: $$E = k\frac{Q}{r^2}$$ | Interno cresce linearmente; esterno come carica puntiforme |
-| **Sfera conduttrice uniformemente carica** | Sferica | Interno: $$E = 0$$ Esterno: $$E = k\frac{Q}{r^2}$$ | Carica sulla superficie; schermo elettrostatico |
-| **Filo infinito uniformemente carico** | Cilindrica | $$E = k\frac{\lambda}{r}$$ | Decresce come $1/r$ |
-| **Cilindro dielettrico uniformemente carico** | Cilindrica | Interno: $$E = \frac{\rho r}{2\epsilon_0}$$ Esterno: $$\frac{\rho}{2\epsilon_0} \frac{R^2}{r}$$ | Analogo alla sfera dielettrica |
-| **Cilindro conduttore uniformemente carico** | Cilindrica | Interno: $$E = 0$$ • Esterno: $$E = \frac{1}{2\pi\epsilon_0}\frac{\lambda}{r}$$ | Carica sulla superficie |
+| **Distribuzione di Carica** | **Simmetria** | **Andamento del Campo $E$**|
+|-----------------------------|---------------|-------------------------------|
+| **Punto** | Sferica | $$E = k\frac{Q}{r^2}$$|
+| **Piano infinito uniformemente carico** | Planare | $$E = \frac{\sigma}{2\epsilon_0}$$ | 
+| **Condensatore piano** | Planare | $$E = \frac{\sigma}{\epsilon_0}$$ tra le armature |
+| **Sfera dielettrica uniformemente carica** | Sferica | Interno: $$E = k\frac{Q}{R^3}r$$   Esterno: $$E = k\frac{Q}{r^2}$$ |
+| **Sfera conduttrice uniformemente carica** | Sferica | Interno: $$E = 0$$ Esterno: $$E = k\frac{Q}{r^2}$$ |
+| **Filo infinito uniformemente carico** | Cilindrica | $$E = \frac{1}{2\pi\epsilon_0}\frac{\lambda}{r}$$ |
+| **Cilindro dielettrico uniformemente carico** | Cilindrica | Interno: $$E = \frac{\rho r}{2\epsilon_0}$$ Esterno: $$\frac{\rho}{2\epsilon_0} \frac{R^2}{r}$$ |
+| **Cilindro conduttore uniformemente carico** | Cilindrica | Interno: $$E = 0$$ • Esterno: $$E = \frac{1}{2\pi\epsilon_0}\frac{\lambda}{r}$$ |
 
 ---
 ## Energia Potenziale di Carica e Potenziale Elettrico

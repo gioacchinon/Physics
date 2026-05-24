@@ -18,7 +18,7 @@
     - **Sfera conduttrice**:
         - interno: $E = 0$
         - esterno: $E = k\frac{Q}{r^2}$
-    - **Filo infinito**: $E = k\frac{\lambda}{r}$
+    - **Filo infinito**: $E = \frac{1}{2\pi\epsilon_0}\frac{\lambda}{r}$
     - **Cilindro dielettrico**:
         - interno: $E = \frac{\rho r}{2\epsilon_0}$
         - esterno: $E = \frac{\rho R^2}{2\epsilon_0 r}$
