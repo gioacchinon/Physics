@@ -40,7 +40,7 @@
 
 ## Costanti Elettrostatiche
 
-- $k = \frac{1}{4\pi\epsilon_0} = 8.99 \cdot 10^9 N{m^2 \over C^2}$$ 
+- $k = \frac{1}{4\pi\epsilon_0} = 8.99 \cdot 10^9 N{m^2 \over C^2}$
 
 - $\epsilon_r = {\epsilon \over \epsilon_0} =$
     - acqua $\to 80$
